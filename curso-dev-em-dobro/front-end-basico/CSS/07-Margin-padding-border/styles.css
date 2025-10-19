@@ -1,0 +1,19 @@
+    /* margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px; */
+
+/* margin: 30px(cima e baixo) 15px(esquerda e direta); */
+
+ /* margin: 30px(cima) 15px(direta) 30px(baixo) 15px(esquerda); */
+p {
+    margin: 30px 15px;
+    padding: 20px;
+    border: 20px solid blueviolet;
+}
+
+h1 {
+    border-style: solid;
+    border-width: 6px;
+    border-color: blueviolet black aliceblue black;
+}

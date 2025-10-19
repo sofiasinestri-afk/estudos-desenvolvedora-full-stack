@@ -1,0 +1,86 @@
+* {
+  font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 16px;
+  font-style: normal;
+  list-style-type: none;
+  box-sizing: border-box;
+}
+
+h1 {
+    background: linear-gradient(to bottom, rgb(120, 89, 69));
+    width: 170vh;
+    height: 8vh;
+    border-radius: 20px;
+    text-align: center;
+    color: aliceblue;
+    padding: 8px;
+}
+h2 {
+    margin-bottom: 0px;
+    background-color: rgb(120, 89, 69);
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: aliceblue;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+span {
+    font-weight: bold;
+    color: green;
+}
+
+section {
+    background: linear-gradient(to bottom, rgb(205, 200, 174), rgb(105, 88, 86)) !important;
+    display: flex;
+    width: 170vh;
+    border-radius: 20px;
+    justify-content: center;
+}
+
+li {
+    background-color: aliceblue !important;
+   padding-inline-start: 20px;
+   padding-inline-end: 20px;
+   margin-top: 0px;
+}
+
+ul {
+    margin-top: 0;
+    padding: 20px 10px 20px 10px;
+    background-color: aliceblue;
+    margin-right: 20px;
+    margin-left: 20px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.totais {
+    display: inline-block;
+}
+
+.valor {
+    font-weight: border;
+    color: black;
+    padding-inline-start: 20px;
+   padding-inline-end: 20px;
+   margin-top: 0px;
+}
+
+p {
+    margin: 10px 0px;
+}
+
+.totais {
+    font-weight: bolder;
+    background-color: rgb(195, 9, 9);
+    color: aliceblue;
+    width: 180px;
+    height: 30px;
+    text-align: center;
+    padding-top: 5px;
+    border-radius: 8px;
+    margin-left: 75px;
+}

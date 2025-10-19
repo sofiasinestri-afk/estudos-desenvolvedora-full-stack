@@ -1,0 +1,11 @@
+.texto-padrao {
+    background-color: #F5F5F5;
+    padding: 20px;
+    margin: 40px;
+}
+
+.texto-destaque{
+    background-color: #F0CCE2;
+    padding: 20px;
+    margin: 40px;
+}

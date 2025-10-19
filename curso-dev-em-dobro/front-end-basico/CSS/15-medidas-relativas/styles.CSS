@@ -1,0 +1,22 @@
+html {
+    background-color: rgb(46, 46, 46);
+    font: 32px;
+}
+
+/* 1em = 16px */
+body {
+    background-color: purple;
+    width: 50%;
+    font-size: 3rem;
+}
+.pai {
+    background-color: #ea80fc;
+    width: 50%;
+    font: 1.5rem;
+}
+
+.filha {
+    background-color: #1de9b6;
+    width: 50%;
+    font-size: 0.5rem;
+}
