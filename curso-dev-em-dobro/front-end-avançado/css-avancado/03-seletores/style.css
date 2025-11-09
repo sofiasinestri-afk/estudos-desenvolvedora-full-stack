@@ -1,0 +1,43 @@
+* {
+  padding: 0;
+  font-size: 20px;
+}
+
+#menu{
+  margin-left: 100px;
+}
+
+.titulo{
+  font-size:30;
+}
+
+.titulo.roxo{
+  color: purple;
+}
+
+.titulo.azul{
+  color:blue;
+}
+
+p, span{
+  font-size: 10px;
+}
+
+.sobre .texto {
+  color: palevioletred;
+}
+
+/* div > p{
+  color: green;
+} */
+
+div + p{
+  color: green;
+}
+
+a[target=_blank]{
+  color:brown;
+}
+a[href="google.com"]{
+  color: goldenrod;
+}
